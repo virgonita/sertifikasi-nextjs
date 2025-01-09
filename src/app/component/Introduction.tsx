@@ -10,7 +10,7 @@ export default function Introduction(){
                             Teknik Informatika
                         </p>  */}
                         <h2 className="text-5x1 text-white font-bold">Hello, Welcome To</h2>
-                        <h2 className="text-7x1 text-blue-400 font-bold ">Virgonita's Blog!</h2>
+                        <h2 className="text-7x1 text-blue-400 font-bold ">Virgonita Blog!</h2>
                         <p className="text-white max-w-lg">
                         I am undergraduate student majoring in Informatics Engineering at Sekolah Tinggi Teknologi Indonesia, Tanjungpinang. I am alumni intern MSIB Batch 7 at Infinite Learning as a Web Developer, and I truly enjoy this role.
 
